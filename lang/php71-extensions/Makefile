@@ -99,6 +99,8 @@ OPTIONS_DEFAULT=	CTYPE \
 			OPCACHE \
 			PDO \
 			PDO_SQLITE \
+			MYSQLI \
+			PDO_MYSQL \
 			PHAR \
 			POSIX \
 			SESSION \
