@@ -109,7 +109,8 @@ OPTIONS_DEFAULT=	CTYPE \
 			TOKENIZER \
 			XML \
 			XMLREADER \
-			XMLWRITER
+			XMLWRITER \
+			ZIP
 
 .include <bsd.port.options.mk>
 
